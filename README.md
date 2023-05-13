@@ -1,18 +1,19 @@
-# Javascript_RockPaperScissor
-This is a web-based implementation of the classic game "Rock Paper Scissors" using JavaScript and Tailwind CSS. The game allows users to play against the computer and test their luck and strategy in a series of rock, paper, and scissor matches.
+##Weather Application
+This is a weather application that allows you to check the weather for your current location and any other location using the OpenWeather API. It is built using JavaScript, Tailwind CSS, and the OpenWeatherMap API.
 
+#Features
 
+<h3>Current Location Weather:</h3>
+The application automatically detects your current location and displays the weather information, including temperature, weather conditions, humidity, and wind speed.
 
-<h1>Technologies Used:</h1>
+<h3>Search Weather by Location:</h3>
+You can search for the weather of any location by entering the city name or ZIP code in the search bar. The application fetches the weather data from the OpenWeatherMap API and displays it on the screen.
 
-<h2>JavaScript:</h2>
-The game logic and user interaction are implemented using JavaScript, providing a dynamic and interactive experience.
+<h3>Responsive Design:</h3>
+The application is designed to work seamlessly on both desktop and mobile devices, providing a consistent and user-friendly experience.
 
-<h2>Tailwind CSS:</h2>
-The game's user interface is built using Tailwind CSS, a utility-first CSS framework, which enables rapid development and customization.
+#Prerequisites
+To run this application locally or deploy it to a web server, you need the following prerequisites:
 
-<h2>HTML:</h2>
-The game interface is constructed using HTML5, providing the structure and layout of the game elements.
-
-<h2>CSS:</h2>
-In addition to Tailwind CSS, custom CSS styles are applied to enhance the visual presentation of the game.
+A web browser with JavaScript enabled.
+API key from OpenWeatherMap. You can sign up for a free API key on the OpenWeatherMap website.
