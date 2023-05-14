@@ -1,6 +1,15 @@
 <h1>Weather Application</h1>
 This is a weather application that allows you to check the weather for your current location and any other location using the OpenWeather API. It is built using JavaScript, Tailwind CSS, and the OpenWeatherMap API.
 
+<i>Grant Location</i>
+![Screenshot of my project](assets/GrantLocation.png)
+
+ <i>Search Weather</i>
+![Screenshot of my project](assets/SearchWeather.png)
+
+<i>Your Weather</i>
+![Screenshot of my project](assets/YourWeather.png)
+
 <h2>Features</h2>
 
 <h3>1.Current Location Weather:</h3>
